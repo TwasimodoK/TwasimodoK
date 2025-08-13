@@ -1,6 +1,6 @@
 👋 Hi, I’m TwasimodoK
 
-💡 Passionate about Data Science & Machine Learning
+💡 Passionate about Data Science & Geoinformatics
 
 📊 Currently exploring Data Analytics, Visualization, and Predictive Modeling
 
